@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 0; flex-direction: row; flex-shrink: 0; width: 60px; height: 60px; left: 20px; top: 20px; align-items: center; justify-content: flex-start; background-color: rgba(51, 96, 195, 0);">
+        <ui:VisualElement style="flex-grow: 0; flex-shrink: 0; width: 60px; height: 60px; background-color: rgb(90, 142, 255);" />
+        <ui:Label text="0" name="Player_Item_Text" style="left: 20px; font-size: 50px; top: -5px; color: rgb(90, 142, 255);" />
+        <ui:Label text="/ 0" name="Stage_Item_Text" style="font-size: 50px; top: -5px; left: 24px;" />
+    </ui:VisualElement>
+</ui:UXML>
